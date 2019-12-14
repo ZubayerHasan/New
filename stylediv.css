@@ -1,0 +1,24 @@
+ *{
+      margin: 0px;
+      padding: 0px;
+    }
+
+ #fun ul{
+      list-style: none;
+    } 
+
+
+    #fun ul li{
+
+    	      background-color:transparent;
+        width: 339px;
+        height: 48px;
+        border: 1px solid white;
+        border-radius:-1px;
+        line-height: 50px;
+        text-align: center;
+        float: left; 
+        color: white;
+        font-size: 19px;
+        position: relative;
+    }
